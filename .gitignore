@@ -1,0 +1,34 @@
+# Ambiente Virtual
+venv/
+.Venv/
+ENV/
+env/
+venv.bak/
+*.pyc
+__pycache__/
+
+# Arquivos de Configuração e Compilação
+*.log
+*.sqlite3
+*.db
+
+# Configurações do Editor
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos Temporários e Backup
+*.bak
+*.tmp
+*~
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Dependências
+*.egg-info/
+.eggs/
+dist/
+build/
