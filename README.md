@@ -20,7 +20,7 @@ pip install thedebugger
 Ou instale a partir do repositório:
 
 ```bash
-pip install git+https://github.com/seuusuario/thedebugger.git
+pip install git+https://github.com/SaideOmaer1240/TheDebugger.git
 ```
 
 ## Requisitos
